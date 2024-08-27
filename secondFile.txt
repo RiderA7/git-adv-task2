@@ -1,5 +1,7 @@
 2 1 line mod in git_1 step 5
 2 2 line mod in git_1 step 5
+2 1 line mod step 4
+2 2 line mod step 4
 2 3 line
 2 4 line
 2 5 line
